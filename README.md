@@ -1,5 +1,4 @@
-Attempted solution to assembler kata 
-https://www.codewars.com/kata/58e61f3d8ff24f774400002c/train/python
+Attempted solution to [assembler kata](https://www.codewars.com/kata/58e61f3d8ff24f774400002c/train/python)
 
 This is the second part of this kata series. First part is here.
 
