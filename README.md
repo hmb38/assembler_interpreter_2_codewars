@@ -54,3 +54,7 @@ assembler_interpreter(program)
 ```
 The above code would set register a to 5, increase its value by 1, calls the subroutine function, divide its value by 2, returns to the first call instruction, prepares the output of the program and then returns it with the end instruction. In this case, the output would be (5+1)/2 = 3.
 
+### Resources 
+
+ * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ * [assembler kata](https://www.codewars.com/kata/58e61f3d8ff24f774400002c/train/python)
