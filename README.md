@@ -38,7 +38,7 @@ If the program does finish itself without using an end instruction, the default 
 The function/method will take as input a multiline string of instructions, delimited with EOL characters. Please, note that the instructions may also have indentation for readability purposes.
 
 For example:
-
+```python
 program = """
 ; My first program
 mov  a, 5
@@ -52,5 +52,6 @@ function:
     ret
 """
 assembler_interpreter(program)
+```
 The above code would set register a to 5, increase its value by 1, calls the subroutine function, divide its value by 2, returns to the first call instruction, prepares the output of the program and then returns it with the end instruction. In this case, the output would be (5+1)/2 = 3.
 
